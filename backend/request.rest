@@ -1,0 +1,35 @@
+// Get All Home
+GET http://localhost:5000/api/home
+Content-Type: application/json
+
+###
+// Get All Departement
+GET http://localhost:5000/api/departement
+Content-Type: application/json
+
+###
+// Get Departement
+GET http://localhost:5000/api/departement/1
+Content-Type: application/json
+
+###
+// Get All Employee
+GET http://localhost:5000/api/employee
+Content-Type: application/json
+
+###
+// Get Employee BY ID
+GET http://localhost:5000/api/employee/9
+Content-Type: application/json
+
+
+
+###
+// Get All Spending
+GET http://localhost:5000/api/spending
+Content-Type: application/json
+
+###
+// Get Spending BY ID
+GET http://localhost:5000/api/spending/1
+Content-Type: application/json
